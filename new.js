@@ -27,7 +27,7 @@
 
 
 function trans(){
-  $(".client").slideUp().slideDown();
+  $(".client").slideUp(1000).slideDown(1000);
 //   $("h1").css("color","white");
 //   $("h1").css("color","blue");
    $("h1").css("color","yellow");

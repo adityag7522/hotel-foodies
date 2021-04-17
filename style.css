@@ -5,6 +5,7 @@
 #navigation{
 display: flex;
 position:sticky;
+z-index: 2;
 top: 0px;
 
 
@@ -12,6 +13,7 @@ top: 0px;
 .nav-points{
     display: flex;
     padding-top: 0px;
+    margin-left: auto;
 }
 #navigation img{
     height: 66px;
